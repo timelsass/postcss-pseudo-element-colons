@@ -1,6 +1,6 @@
 const postcss = require( 'postcss' );
 
-module.exports = postcss.plugin( 'postcss-pseudo-elements', ( options ) => {
+module.exports = postcss.plugin( 'postcss-pseudo-element-colons', ( options ) => {
 
   options = options || {};
 
