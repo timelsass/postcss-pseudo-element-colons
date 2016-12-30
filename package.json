@@ -1,0 +1,32 @@
+{
+  "name": "postcss-pseudo-element-colons",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to format single or double colon notation on pseudo elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timelsass/postcss-pseudo-element-colons.git"
+  },
+  "keywords": [
+    "postcss",
+    "pseudo-elements",
+    "pseudo",
+    "colons",
+    "format",
+    "stylelint",
+    "pseudo-element",
+    "colon"
+  ],
+  "author": "Tim Elsass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timelsass/postcss-pseudo-element-colons/issues"
+  },
+  "homepage": "https://github.com/timelsass/postcss-pseudo-element-colons#readme",
+  "dependencies": {
+    "postcss": "^5.2.8"
+  }
+}
