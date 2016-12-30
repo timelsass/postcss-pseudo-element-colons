@@ -1,6 +1,6 @@
 {
   "name": "postcss-pseudo-element-colons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PostCSS plugin to format single or double colon notation on pseudo elements.",
   "main": "index.js",
   "scripts": {
