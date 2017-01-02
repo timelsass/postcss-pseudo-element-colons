@@ -12,6 +12,7 @@
   },
   "keywords": [
     "postcss",
+    "postcss-plugin",
     "pseudo-elements",
     "pseudo",
     "colons",
